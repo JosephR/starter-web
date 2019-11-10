@@ -1,1 +1,2 @@
-"Some additional text to test adding a new file" 
+This is some additional text to test adding a new file.
+This is some more text after the original text that was submitted for the first commit.
