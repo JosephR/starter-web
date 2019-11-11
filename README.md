@@ -13,3 +13,7 @@ how deployments work.
 
 ## PostScript
 
+###Copyright
+
+2014 Git.Training
+
