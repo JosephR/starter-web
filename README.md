@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work, including P4merge as an additional tool.
+Adding a line for rebasing example.
 
 ## Purpose
 
